@@ -3,7 +3,7 @@
  * Wordle in a terminal with some color codes
  *
  * @ By Daniel Hoskins
- * @version (1/26/23)
+ * @version (2/4/23)
  */
 
 import java.util.Scanner;
